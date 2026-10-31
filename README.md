@@ -1,12 +1,10 @@
-# News Aggregator
+# News Aggregator – Frontend
 
-A full-stack news aggregation platform designed to provide users with an organised news browsing experience, featuring search, category-based discovery, bookmarks, and AI-oriented content processing.
+A responsive news aggregation frontend built with React and TypeScript, designed to provide users with an organised news browsing experience.
 
 ## Overview
 
-News Aggregator brings together frontend development and backend technologies to explore modern news discovery and content-processing workflows.
-
-The project includes a React and TypeScript frontend and a separately developed AI-focused backend codebase.
+This repository contains the frontend implementation of the News Aggregator application. It provides an interactive interface for discovering, searching, browsing, and bookmarking news articles.
 
 ## Features
 
@@ -16,39 +14,37 @@ The project includes a React and TypeScript frontend and a separately developed 
 * Bookmark functionality
 * Light and dark theme support
 * API communication using Axios
-* Loading and error handling
+* Loading states and error handling
 * Offline fallback behaviour
-* AI-oriented backend modules exploring OCR, summarisation, sentiment analysis, translation, and recommendations
+* Responsive user interface
 
 ## Technology Stack
-
-### Frontend
 
 * React.js
 * TypeScript
 * Tailwind CSS
 * Axios
-
-### Backend and AI Modules
-
-* Java
-* Spring Boot
-* REST APIs
+* HTML5
+* CSS3
 
 ## Project Structure
 
-The repository contains frontend and backend-related project files.
+The frontend source code and related application files are maintained in this repository.
 
-The AI-focused backend modules are maintained separately and are not integrated with the main frontend application.
+## Live Demo
 
-## Demo
+[View Live Frontend](https://news-aggregator-app-frontend.vercel.app/)
 
-Frontend Deployment: https://news-aggregator-app-frontend.vercel.app/
+## Project Demonstration
 
-Demo Video: [Watch Project Demonstration](https://drive.google.com/file/d/1p2YFMguiba8GakaYqB22wwNL6QjKa1m8/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/1p2YFMguiba8GakaYqB22wwNL6QjKa1m8/view?usp=drive_link)
 
-Note: Backend-dependent functionality requires the relevant backend services to be running.
+## Screenshots
+
+The application screenshots are available in the project repository.
 
 ## Development
 
-This project was developed as a practical exploration of full-stack application development, frontend integration, API communication, and AI-oriented backend capabilities.
+This project demonstrates practical experience in React development, TypeScript, component-based architecture, API integration, and frontend application design.
+
+**Note:** Backend-dependent features require the corresponding backend services to be available.
