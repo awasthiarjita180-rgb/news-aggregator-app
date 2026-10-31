@@ -1,2 +1,3 @@
 # news-aggregator
-Full Stack News Aggregator with Spring Boot, Kafka, Redis, Docker, AI Summarization and Camera OCR Translation
+A full-stack news aggregation platform featuring a React and TypeScript frontend, news discovery, search, bookmarks, and AI-powered content processing.
+
